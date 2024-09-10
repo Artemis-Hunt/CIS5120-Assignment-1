@@ -2,5 +2,5 @@
 React, Vite, Chakra UI
 
 To run:
-npm install
-npm run dev
+- `npm install`
+- `npm run dev`
